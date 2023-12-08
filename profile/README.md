@@ -1,6 +1,6 @@
 ## About
 
-IPFS Connect is a community-driven event for IPFS ecosystem members to gather outside of the annual [IPFS þing](https://ipfs-thing.io) and [IPFS Camp]([url](https://ipfs.camp/). Ideally events are be organized on a more regional basis, allowing more and more people to meet in person to learn and discuss technologies in the IPFS ecosystem. IPFS Connect is _community organized_... which means you can run your own!
+IPFS Connect is a community-driven event for IPFS ecosystem members to gather outside of the annual [IPFS þing](https://ipfs-thing.io) and [IPFS Camp](https://ipfs.camp). Ideally events are be organized on a more regional basis, allowing more and more people to meet in person to learn and discuss technologies in the IPFS ecosystem. IPFS Connect is _community organized_... which means you can run your own!
 
 The inaugural event was facilitated by Fission in November 2023 [in Istanbul](https://istanbul2023.ipfsconnect.org/) alongside Labweek 2023.
 
